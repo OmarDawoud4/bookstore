@@ -12,5 +12,5 @@ Purchase books (Paper and EBooks only)
 
 Display current inventory
 
-## screenshots from the running app in
+## screenshots from the running app 
 ![image](https://github.com/user-attachments/assets/712bf2af-aec5-4bfa-baf2-c05a87f5d021)
