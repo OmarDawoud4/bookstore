@@ -1,8 +1,8 @@
 Java console-based application simulating an online bookstore system.
 It supports different types of books:
 
-Paper Book (shipped to customer)
-EBook (sent via email)
+Paper Book (shipped to customer),
+EBook (sent via email),
 Showcase Book (not for sale)
 
 ## Features
